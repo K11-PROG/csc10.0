@@ -1,0 +1,13 @@
+# Catholic Saints Calendar - Minimal August 2025 Version
+
+This is a minimal working version of the Catholic Saints Calendar app in English with August 2025 data.
+
+## Features
+- Displays saints and feast days for August 2025.
+- Shows daily meditations.
+- Allows adding personal notes (saved locally).
+
+## How to Run
+1. Install Streamlit:
+   ```bash
+   pip install streamlit
